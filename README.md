@@ -1,7 +1,7 @@
 # Fusion
-Streaming Service
 
 data base used : Mysql
+Create database table as mentioned MYSQLtable.png
 
 required packages to run the files
 
